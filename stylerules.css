@@ -1,0 +1,12 @@
+body{
+    background-image: url("DETECTIVE.jpg");
+}
+.btn_menu{
+    font-weight: 900;
+    background-color: grey;
+
+}
+.btn_menu:hover{
+    background-color: white;
+    
+}

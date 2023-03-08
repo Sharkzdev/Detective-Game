@@ -1,0 +1,35 @@
+.title{
+    margin-top: 230px;
+    text-align: center;
+    font-size: xxx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+.center{
+    width: 15.5% ; /* or any desired width */
+    margin: 0 auto; /* this will center the div horizontally */
+}
+.btn_1:hover{
+    background-color: white;
+}
+.btn_1{
+    margin-top: 100px;
+    height: 75px;
+    width: 300px;
+    font-size: xx-large;
+    font-weight: 800;
+    border: 1px solid black;
+}
+
+.btn_2:hover{
+    background-color: white;
+}
+.btn_2{
+    margin-top: 50px;
+    height: 75px;
+    width: 300px;
+    font-size: xx-large;
+    font-weight: 800;
+    border: 1px solid black;
+}

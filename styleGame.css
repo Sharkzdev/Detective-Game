@@ -1,0 +1,76 @@
+#photo{
+    border: 1px solid black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    
+
+    height: 500px;
+    margin: auto;
+    width: 50%;
+    background-image: url("House.jpg");
+}
+#textbox{
+    width: 1000px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 900;
+    font-size: xx-large;
+    background-color: white;
+    border: 1px solid black;
+    
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.Next{
+    padding: 10px;
+    font-weight: bolder;
+    width: 50%;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.Next:hover{
+    background-color: white;
+}
+.btn_menu{
+    font-weight: 900;
+    background-color: grey;
+
+}
+.btn_menu:hover{
+    background-color: white;
+    
+}
+.answers{
+    text-align: center;
+}
+#a:hover{
+    background-color: white;
+}
+#b:hover{
+    background-color: white;
+}
+#c:hover{
+    background-color: white;
+}
+#d:hover{
+    background-color: white;
+}
+#e:hover{
+    background-color: white;
+}
+#Submit{
+    margin: 0;
+    position: absolute;
+    left: 52.5%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+#Submit:hover{
+    background-color: white;
+}
